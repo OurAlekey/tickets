@@ -39,7 +39,7 @@ $asignado = $_GET["asignado"];
 				<div class="row p-5  ">
 					<div style="text-align: right;"><a <?php
 														if ($agente == "N") {
-															echo "href='/tickets/index.php'";
+															echo "href='/index.php'";
 														} else {
 															echo "href='/tickets/pages/usuarios.php?usuario=$user&agente=$agente&asignado=N'";
 														}
