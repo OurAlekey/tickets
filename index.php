@@ -39,7 +39,7 @@
                 </div>
 
                 <div class="my-3">
-                    <span>No tienes cuenta? <a href="pages/registrarUsuario.php?usuario=N&agente=N&asignado=N">Registrate</a></span><br>
+                    <span> No tienes cuenta? <a href="pages/registrarUsuario.php?usuario=N&agente=N&asignado=N">Registrate</a></span><br>
              
                 </div>
             </form>
