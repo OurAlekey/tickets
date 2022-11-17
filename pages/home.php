@@ -58,7 +58,7 @@ if (isset($_POST['accion'])) {
 					<ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
 
 						<li class="nav-item">
-							<a class="nav-link active" href="/tickets/index.html">Cerrar sesión</a>
+							<a class="nav-link active" href="/tickets/index.php">Cerrar sesión</a>
 						</li>
 					</ul>
 				</div>
